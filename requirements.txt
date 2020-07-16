@@ -1,0 +1,5 @@
+pandas==1.0.5
+numpy
+nltk
+sklearn
+xlrd
