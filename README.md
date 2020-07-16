@@ -1,2 +1,2 @@
 # InteractiveChatAssistant
-Ritik ki treat pakki &lt;3 
+This chat assistant was created with an intention for playing around the code, and not for some exceptionally cognitive SOTA chatbot.
