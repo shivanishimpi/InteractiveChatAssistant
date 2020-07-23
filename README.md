@@ -5,7 +5,7 @@ This NLTK-based chat assistant was created with an intention for playing around 
 ## To run from Terminal 
 
 ```
-pip3 install -r requirements.txt
-python3 libraryDownloads.py
-python3 interactivechatassistant.py
+$ pip3 install -r requirements.txt
+$ python3 libraryDownloads.py
+$ python3 interactivechatassistant.py
 ```
